@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Antonio\source\repos\U6 Mavi TP Integrador\main.cpp(62,36): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+  Mavi TP Integrador.vcxproj -> C:\Users\Antonio\source\repos\U6 Mavi TP Integrador\Debug\U6 Mavi TP Integrador.exe
